@@ -1,0 +1,34 @@
+body{
+    margin: 0; 
+    padding: 0;
+    background-color:rgb(123, 224, 214);
+    font-style: arial;
+}
+#style{
+    color: orangered;
+    font-style: normal;
+    margin-left: 40px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    text-align:left;
+    text-transform:uppercase;
+    float: left;
+     
+}
+.navbar ul{list-style:none;
+    background-color: rgb(2, 61, 2);
+    padding: 15px;
+    margin-bottom: 0px;
+    text-align: right;
+    
+}
+.navbar li{
+display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    margin: 20px;
+}
